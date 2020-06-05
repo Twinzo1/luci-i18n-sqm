@@ -2,4 +2,4 @@
 
 ## Language support for luci-app-sqm
 
-用于汉化sqm-qos
+## 用于汉化sqm-qos
